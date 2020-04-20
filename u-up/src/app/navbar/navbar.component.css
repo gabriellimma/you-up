@@ -1,0 +1,27 @@
+.navone
+{
+    background-color: #2e174b;
+    z-index: 999;
+}
+
+.btn-toggler
+{
+    color: #000000;
+    
+}
+
+.colorblack
+{
+    color: #000000;
+    
+}
+.colorwhite
+{
+    color: rgba(255, 255, 255, 0);
+}
+
+.nav-item:hover, .dropdown-item:hover
+{
+   background-color: #ff5020;
+   transition: 0.9s;
+}

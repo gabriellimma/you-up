@@ -1,0 +1,28 @@
+
+.image-bg-one
+{
+    background-image: url(../../assets/images/uupmontain.jpg);
+    background-size: cover;
+    width: 100%;
+
+}
+.homeone
+{
+    background-color: rgba(255, 228, 196, 0);
+}
+
+.text-one, .text-second
+{
+    background-color: rgba(46, 23, 75, 0);
+    border-radius: 1%;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.more
+{
+    color: white;
+    transition: 1s;
+    border-bottom: #2e172e;
+    text-shadow: 2px 2px 4px #000000;
+}
