@@ -2,7 +2,11 @@
 
 #### Projeto single page application com angular CLI desenvolvido em 26 horas de puro código e energético.
 
-Abaixo seguem as imagens do site para desktop e small-devices testado do pixel5 ao iPhone-xs.
+>> SPA project maded with angular CLI developed in 26 hours of pure code and Monster.
+
+Abaixo seguem as imagens do site para desktop e small-devices testado no pixel5 e no iPhone-xs.
+
+The following image is from the web site for desktop and smal devices tested on pixel and iPhone-xs.
 
 ## Home for desktop:
 
