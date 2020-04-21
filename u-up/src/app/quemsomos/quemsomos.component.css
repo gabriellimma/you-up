@@ -1,0 +1,27 @@
+.bgimage{
+    background-image: url(../../assets/images/30a0d072831919.5e8d5e2336043.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bgimage2{
+    background-image: url(../../assets/images/uupsimcards.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.box{
+    background-color: rgba(255, 255, 255, 0.808);   
+}
+
+.display-2{
+    font-weight: bold;
+    color: white;
+    text-shadow: 0.5px 0.5px 2px #000000;
+}
+
+.display-4{
+    color: white;
+    /* text-shadow: 0.5px 0.5px 4px #000000; */
+    font-weight: lighter;
+}
