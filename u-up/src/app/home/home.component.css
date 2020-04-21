@@ -12,13 +12,16 @@
 {
     background-color: rgba(255, 228, 196, 0);
 }
+.display-2{
+    font-weight: bolder;
+}
 
 .text-one, .text-second
 {
     background-color: rgba(46, 23, 75, 0);
     border-radius: 1%;
     color: white;
-    text-shadow: 0.5px 0.5px 4px #000000;
+    text-shadow: 0.5px 0.5px 2px #000000;
 }
 
 .more
