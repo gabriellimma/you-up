@@ -1,5 +1,5 @@
 p {
-    color: #999;
+    color: rgb(255, 255, 255);
     line-height: 25px;
   }
   h2,
@@ -35,11 +35,12 @@ p {
     list-style: none;
   }
   .segment-two ul li {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid #ffffff;
     line-height: 40px;
+    padding-left: 5px;
   }
   .segment-two ul li a {
-    color: #999;
+    color: rgb(255, 255, 255);
     text-decoration: none;
   }
   .segment-three h2 {
@@ -91,6 +92,7 @@ p {
     text-align: center;
     background: #221136;
     line-height: 75px;
+    color: #ffffff;
   }
   /* icones */
   
@@ -117,6 +119,15 @@ p {
     color: rgb(43, 43, 43);
     transition: 0.1s;
   }
+
+  .segment-two li:hover{
+    background-color: #ff5220;
+    border-bottom: 1px solid #ffffff;
+    line-height: 40px;
+    transition: 0.9s;
+  }
+
+
   /* responsividade css */
   
   @media only screen and (min-width: 768px) and (max-width: 991px) {

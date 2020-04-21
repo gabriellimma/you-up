@@ -3,7 +3,9 @@
 {
     background-image: url(../../assets/images/uupmontain.jpg);
     background-size: cover;
-    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    /* background-position: 50%; */
 
 }
 .homeone
@@ -26,3 +28,24 @@
     border-bottom: #2e172e;
     text-shadow: 2px 2px 4px #000000;
 }
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .image-bg-one
+{
+   
+    background-size: auto;
+    max-width: 100%;
+    background-position: 10%;
+
+}
+  } 
+  @media only screen and (max-width: 767px) {
+    .image-bg-one
+    {
+        
+        background-size: auto;
+        max-width: 100%;
+        background-position: 50%;
+    
+    }
+  }
