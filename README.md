@@ -42,4 +42,4 @@ The following image is from the web site for desktop and smal devices tested on 
 
 ### SPA feita em angular CLI, bootstrap, jquery, popper.js, html, css e js desenvolvidos por mim mesmo. As imagens usadas possuem direitos autorais próprios declaro aqui que esse site é feio apenas para finalidade de estudo.
 
-### SPA maded with angular LCI, bootstrap, jquery, popper.js, html, css e js developed by me. All of the images used probably have copy rigth and I used for study only, non-comercial use.
+### SPA maded with angular CLI, bootstrap, jquery, popper.js, html, css e js developed by me. All of the images used probably have copy rigth and I used for study only, non-comercial use.
