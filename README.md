@@ -8,6 +8,8 @@ Abaixo seguem as imagens do site para desktop e small-devices testado no pixel5 
 
 The following image is from the web site for desktop and smal devices tested on pixel and iPhone-xs.
 
+live preview: https://youup42-1cc4d.web.app/home
+
 ## Home for desktop:
 
 ![Home desktop](https://i.imgur.com/ISwp4EF.png)
